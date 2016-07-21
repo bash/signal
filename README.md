@@ -1,5 +1,5 @@
 # signal
-the smallest event dispatcher
+probably the smallest event dispatcher
 
 ## Inspiration
 `Signal` is inspired by Chrome's Extension API (Example: https://developer.chrome.com/extensions/tabs#event-onUpdated)
