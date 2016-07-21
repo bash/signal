@@ -1,4 +1,4 @@
-# signal
+# signal 🔔
 probably the smallest event dispatcher
 
 ## Inspiration
