@@ -36,5 +36,9 @@ Signal.prototype.removeListener = function (callbackFn) {
  * @param {T} [value]
  */
 Signal.prototype.dispatch = function (value) {
+  if (this._listeners == null) {
+    return
+  }
+
   this._listeners.forEach((listener) => listener(value))
 }
