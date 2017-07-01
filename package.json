@@ -1,0 +1,22 @@
+{
+  "name": "signal",
+  "version": "1.0.0",
+  "description": "probably the smallest event dispatcher",
+  "main": "signal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bash/signal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bash/signal/issues"
+  },
+  "homepage": "https://github.com/bash/signal#readme",
+  "devDependencies": {
+    "typescript": "^2.4.1"
+  }
+}
